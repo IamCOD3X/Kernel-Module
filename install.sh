@@ -125,7 +125,10 @@ print_modname() {
   ui_print "*******************************"
   ui_print "       ViP3R 1.0 modules       "
   ui_print "       ~ @ViPER_KERNELs        "
+  ui_print "---------By- IamCOD3X----------"
   ui_print "*******************************"
+  ui_print "-----www.viper-kernel.tech-----"
+  
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
